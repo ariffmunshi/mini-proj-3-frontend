@@ -20,6 +20,7 @@ function Posts() {
                     </li>
                 ))}
             </ul>
+            <Link to="/posts/new">Create Post</Link>
         </>
     )
 }
